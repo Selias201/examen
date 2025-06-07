@@ -54,3 +54,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  proyectos:
+    output: true
+    permalink: /proyectos/:title/
+    title: "Proyectos"   

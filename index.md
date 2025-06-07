@@ -1,6 +1,7 @@
 ---
-layout: Index
+layout: default
 title: Inicio
 permalink: /index/
 ---
-Bienvenidos a mi pagina web estatica realizada como examen.
+
+Esta es una pagina creada para demostrar lo aprendido en la clase de Introduccion a los Sistemas de Computo
